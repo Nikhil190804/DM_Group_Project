@@ -3,7 +3,7 @@ DM Project
 contributors:
 1. Nikhil (2022321)
 2. Nikhil Kumar(2022322)
-3. Kashvi panvanda (2022245)
+
 
 Our components: 
 
